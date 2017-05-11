@@ -1,6 +1,6 @@
 obj/
 bin/
-WeChat/WeChat/log/
+log/
 WeChat.v12.suo
 *.orig
 .vs/
