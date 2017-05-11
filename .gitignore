@@ -1,0 +1,11 @@
+obj/
+bin/
+WeChat/WeChat/log/
+WeChat.v12.suo
+*.orig
+.vs/
+*.user
+packages/Microsoft.Bcl.Build.1.0.14/tools/Microsoft.Bcl.Build.Tasks.dll
+wechat.pubxml
+packages/
+WeChat/WeChat/Web.config
